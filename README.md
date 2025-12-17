@@ -1,3 +1,6 @@
+![.NET](https://img.shields.io/badge/.NET-8.0-purple)
+![Build](https://img.shields.io/badge/status-live-success)
+![Auth](https://img.shields.io/badge/auth-JWT%20HttpOnly-blue)
 # studenttime-api
 
 API REST pour l'application de suivi de temps d'étude StudentTime. Cette API permet de gérer l'authentification des utilisateurs et le suivi des sessions d'étude.
